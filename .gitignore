@@ -1,0 +1,3 @@
+runPHP.bat
+*.log
+php/config/Settings.php
