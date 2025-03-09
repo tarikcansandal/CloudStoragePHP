@@ -25,6 +25,6 @@ This project is a **cloud storage SaaS system** developed in PHP. Users can uplo
 ## Technologies Used
 - **Backend:** PHP 8.4.0 (Compliance information will be filled in)
 - **Frontend:** HTML, CSS, JavaScript (jQuery, Bootstrap)
-- **Database:** MySQL or SQLite
+- **Database:** MySQL
 - **Storage:** Local file system (Cloud integration may be considered in the future)
 - **Compression:** PHP `ZipArchive`
