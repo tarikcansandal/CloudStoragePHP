@@ -28,3 +28,9 @@ This project is a **cloud storage SaaS system** developed in PHP. Users can uplo
 - **Database:** MySQL
 - **Storage:** Local file system (Cloud integration may be considered in the future)
 - **Compression:** PHP `ZipArchive`
+
+
+## 📅 Scheduled Cron Jobs
+not yet established
+```bash
+0 3 * * * /usr/bin/php /path/to/demo.php
