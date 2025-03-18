@@ -1,5 +1,9 @@
 # PHP Cloud Storage SaaS
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## About the Project
 This project is a **cloud storage SaaS system** developed in PHP. Users can upload, manage their files, and utilize storage space based on their membership level. Files are **compressed in ZIP format**, and the **compression ratio increases based on file access duration**.
 
